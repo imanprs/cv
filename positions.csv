@@ -1,0 +1,11 @@
+section,in_resume,title,loc,institution,start,end,description_1,description_2,description_3
+education,TRUE,"PhD. Candidate, Business Administration – Supply Chain Management",Arizona State University,"Tempe, AZ",2016,Present,Nonprofit organizations and humanitarian operations management,Empirical research using secondary data,Game theoretical modelling
+education,TRUE,"M.S., Industrial Engineering",Iran University of Science and Technology,"Tehran, Iran",2012,2015,Thesis: Hub Location and Multi-Modal Flow Planning in Disaster Relief Networks,NA,
+research_positions,TRUE,Graduate Research Assistant,NA,Arizona State University,2016,Present,Working with Drs. Eftekhar and Webster,"Doing both empirical and analytical research in nonprofit settings, especially on humanitarian organizations",NA
+industry_positions,TRUE,Planning and Warehouse Manager,Agreen Green Land,"Tehran, Iran",2013,2014,"Started as a planning expert, I was gradually promoted to planning and warehouse manager of this new born food branding company.","The job included production planning, warehouse management, organizational process design, etc.",
+teaching_positions,TRUE,Production Planning,Iran University of Science and Technology,"Tehran, Iran",2012,2014,Teaching assistant and co-lecturer,Both online and in-person classes,
+teaching_positions,TRUE,Introduction to Supply Chain Management,Arizona State University,"Tempe, AZ",2018,2018,"Teaching assistant, lectured, and gave exams",Required course for all business students,
+teaching_positions,TRUE,Introduction to Supply Chain Management,Arizona State University,"Tempe, AZ",2019,2019,Lecturer,Required course for all business students,
+academic_articles,TRUE,A multi supplier lot sizing strategy using dynamic programming,International Journal of Industrial Engineering Computations,N/A,2013,2013,"Authored with Mohsen Emadi Khiav, Saharnaz Mehrani, and Mohammad Mahdavi Mazdeh",NA,NA
+academic_articles,TRUE,A heuristic to solve the dynamic lot sizing problem with supplier selection and quantity discounts,Computers & Industrial Engineering,N/A,2015,2015,"Authored with Mohsen Emadi Khiav, Saharnaz Mehrani, and Mohammad Mahdavi Mazdeh",NA,NA
+academic_articles,TRUE,Do transparency and accountability justify humanitarian organizations' overhead costs?,Working Paper,N/A,NA,NA,Authored with Mahyar Eftekhar and Charles J. Corbett,NA,NA
