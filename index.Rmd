@@ -53,9 +53,9 @@ Aside
 ```{r}
 # When in export mode the little dots are unaligned, so fix that. 
 if(PDF_EXPORT){
-  cat("View this CV online with links at _nickstrayer.me/cv_")
+  cat("View this CV online at _imanprs.github.io/cv/_")
 } else {
-  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/imanprs/cv/raw/master/parsa_cv.pdf)")
+  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/imanprs/cv/parsa_cv.pdf)")
 }
 ```
 
@@ -119,6 +119,7 @@ I started both research and teaching early on during my undergraduate and master
 cat(sanitize_links(intro_text))
 ```
 
+<br>
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -128,6 +129,7 @@ Education {data-icon=graduation-cap data-concise=true}
 print_section(position_data, 'education')
 ```
 
+<br>
 
 
 Research Experience {data-icon=laptop}
@@ -137,7 +139,7 @@ Research Experience {data-icon=laptop}
 print_section(position_data, 'research_positions')
 ```
 
-
+<br>
 
 Industry Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -163,6 +165,7 @@ Teaching Experience {data-icon=chalkboard-teacher}
 print_section(position_data, 'teaching_positions')
 ```
 
+<br>
 
 Selected Publications {data-icon=book}
 --------------------------------------------------------------------------------
