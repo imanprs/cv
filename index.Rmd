@@ -55,7 +55,7 @@ Aside
 if(PDF_EXPORT){
   cat("View this CV online at _imanprs.github.io/cv/_")
 } else {
-  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/imanprs/cv/parsa_cv.pdf)")
+  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/imanprs/cv/blob/main/parsa_cv.pdf)")
 }
 ```
 
@@ -69,7 +69,7 @@ Contact {#contact}
 
 
 
-Software  {#skills}
+Software and Programming {#skills}
 --------------------------------------------------------------------------------
 
 ```{r}
